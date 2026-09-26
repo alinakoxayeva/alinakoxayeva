@@ -112,4 +112,5 @@
 
 <div align="center">
   <sub><i>"Building scalable systems with a touch of art and precision."</i></sub>
+  <img src="https://i.pinimg.com/originals/53/bf/ee/53bfeede0d935ef1a86ffebf617eb25a.gif">
 </div>
