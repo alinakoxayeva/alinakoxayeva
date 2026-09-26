@@ -101,16 +101,10 @@
 - 📄 **[Responsive HTML CV](https://github.com/alinakoxayeva)**  
   Clean, semantic, fully responsive personal CV built with modern pure HTML/CSS principles[cite: 4].
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alinakoxayeva&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinakoxayeva&layout=compact&theme=rose_pine" />
-</div>
-
 <br/>
 
 <div align="center">
-  <sub><i>"Building scalable systems with a touch of art and precision."</i></sub>
+  <sub><i>"Building scalable systems with a touch of art and precision."</i></sub> 
+  <br/>
   <img src="https://i.pinimg.com/originals/53/bf/ee/53bfeede0d935ef1a86ffebf617eb25a.gif">
 </div>
