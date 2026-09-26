@@ -19,11 +19,13 @@
 <br/>
 
 ### 🎀 About Me
-- 🎓 **Education:** B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University (ASOIU)** (GPA: 86.3/100)
-- 🚀 **Experience & Programs:** Participant in **DigiAge (2026)** and **Robocode Robotics Coding Camp (2025)**
-- 🎨 **Passion:** Frontend Architecture, Glassmorphism & Minimalist UI, Color Theory & Digital Art Systems
-- 🛠️ **Current Focus:** Deepening Full-Stack Development (React, Node.js), Oracle SQL Engineering, and Cursor AI
-- 🏆 **Achievements:** GitHub *Pull Shark* Badge | End-to-end Agile/Scrum Management on real-world projects
+
+- 🎓 **Academic Profile:** B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University** (GPA: 86.3/100)[cite: 4].
+- 💡 **Who I Am:** A multidisciplinary creator bridging the gap between **software engineering logic, aesthetic UI/UX, and digital art**[cite: 4].
+- 🚀 **Tech & Programs:** DigiAge participant (2026)[cite: 4] & Robocode Camp alumna (2025)[cite: 4], diving deep into **Frontend Architecture, Oracle SQL[cite: 4], and AI-assisted workflows** using Cursor AI.
+- 🎨 **Creative Vision:** Passionate about **physical color theory, glassmorphism UI[cite: 4], digital fashion, and lo-fi aesthetics**. I love turning complex logic into soulful, visually captivating user experiences.
+- 🛠️ **Current Endeavors:** Developing **PIGMNT** (a smart color-mixing tool for artists), mastering React/Next.js, and mastering Agile/Scrum project coordination[cite: 4].
+- 🎧 **Driven By:** High-focus discipline (*Whiplash mindset*), indie music vibes, and a relentless push toward world-class innovation.
 
 ---
 
