@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alinakoxayeva/alinakoxayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Başlıq və Profil -->
+  <h1>✦ Hi, I'm Alina Kokhayeva ✦</h1>
+  <p><i>IT Student @ ASOIU | Frontend Developer | Agile Project Coordinator</i></p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://linkedin.com/in/alinakokhayeva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/alinakoxayeva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:alinakokhayeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  <p><b>"Blending web development, database architecture, and Agile coordination with creative design."</b></p>
+
+</div>
+
+<br/>
+
+### 🎀 About Me
+- 🎓 **Education:** B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University (ASOIU)** (GPA: 86.3/100)
+- 🚀 **Experience & Programs:** Participant in **DigiAge (2026)** and **Robocode Robotics Coding Camp (2025)**
+- 🎨 **Passion:** Frontend Architecture, Glassmorphism & Minimalist UI, Color Theory & Digital Art Systems
+- 🛠️ **Current Focus:** Deepening Full-Stack Development (React, Node.js), Oracle SQL Engineering, and Cursor AI
+- 🏆 **Achievements:** GitHub *Pull Shark* Badge | End-to-end Agile/Scrum Management on real-world projects
+
+---
+
+### 🛠️ Technical Skills & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React / Node
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle SQL" />
+      <br>Oracle SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git / GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
+      <br>Jira / Scrum
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS2" />
+      <br>ROS2 / Unity
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python / AI
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Featured Projects
+
+- 🖼️ **[Aquart Academy — Integrated Management System](https://github.com/alinakoxayeva)**  
+  Single-page web app with glassmorphism UI, smooth animations, and digital portfolio archive. Managed using Jira/Agile methodologies (sprint planning, story points).  
+  `Tech Stack: HTML5 · Tailwind CSS · JavaScript · Jira · Trello`
+
+- 🗄️ **[Citizen Database — RDBMS](https://github.com/alinakoxayeva)**  
+  Relational Database Management System engineered with optimized indexing strategies, stored procedures, and triggers for automated workflows.  
+  `Tech Stack: Oracle SQL · Stored Procedures · Database Triggers`[cite: 4]
+
+- 📄 **[Responsive HTML CV](https://github.com/alinakoxayeva)**  
+  Clean, semantic, fully responsive personal CV built with modern pure HTML/CSS principles[cite: 4].
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alinakoxayeva&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinakoxayeva&layout=compact&theme=rose_pine" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><i>"Building scalable systems with a touch of art and precision."</i></sub>
+</div>
