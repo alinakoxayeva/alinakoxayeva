@@ -1,76 +1,89 @@
 <div align="center">
 
-# Hi, I'm Alina Kokhayeva ✦
+# ✦ Alina Kokhayeva ✦
 
-**IT student · Frontend & full-stack developer · Agile project coordinator**
+**IT student · Full-stack & AI-assisted developer · Baku, Azerbaijan**
 
-*Web development, database design and Agile teamwork, with a designer's eye.*
+*I like building things where clean logic meets good design.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alinakokhayeva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinakokhayeva/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinakokhayeva@gmail.com)
-[![Live demo: Savor](https://img.shields.io/badge/Live%20demo-Savor-D23D2D?style=for-the-badge)](https://bitego-website.vercel.app/)
 
 </div>
 
 ---
 
-## About me
+## 🎀 About me
 
-- 🎓 B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University** (GPA 86.3/100)
-- 💡 I build things where **clean logic meets good UI/UX**: React front ends, relational databases and Agile workflows
-- 🚀 DigiAge participant (2026) · Robocode Camp alumna (2025)
-- 🛠️ Currently: finishing **Savor**, a full-stack food ordering app, building **PIGMNT** (a color-mixing tool for artists) and learning Next.js
-- 🎨 Outside code: color theory, glassmorphism UI, digital fashion and lo-fi aesthetics
+I'm an Information Technology student at **Azerbaijan State Oil and Industry University** (GPA 86.3/100), currently on an academic exchange at **Satbayev University** in Kazakhstan, where I'm studying Artificial Intelligence and Cloud Technologies.
 
----
+I build full-stack web apps (React, TypeScript, Node.js, PostgreSQL) and AI-powered tools (LLM integrations, a Slack AI agent), and I use AI coding tools like Cursor as part of my workflow. I work in Git feature branches with pull requests, and I've run Agile/Scrum delivery with Jira and Trello.
 
-## Featured projects
-
-### 🍽️ [Savor](https://github.com/alinakoxayeva/bitego-website) · [Live demo](https://bitego-website.vercel.app/)
-Full-stack restaurant ordering app. Customers browse the menu, order and track their order live; admins manage the menu, orders and users and see sales statistics. I implemented the whole UI from my own Figma-based design system.
-`React 19` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma`
-
-### 🤖 [oxy-ai-agent](https://github.com/alinakoxayeva/oxy-ai-agent)
-Slack AI agent built with Node.js, LangChain, OpenAI and PostgreSQL.
-`Node.js` `LangChain` `OpenAI` `PostgreSQL`
-
-### 📈 [habit-flow](https://github.com/alinakoxayeva/habit-flow)
-Task and habit tracking dashboard with real-time analytics in Recharts, persistent LocalStorage and interactive status management.
-`React` `Vite` `Recharts`
-
-### 🖼️ [AquartAcademy](https://github.com/alinakoxayeva/AquartAcademy)
-Integrated management system and web app for an art academy, with digital student portfolios and task automation. Planned with Jira and Agile/Scrum (sprints, story points).
-`HTML5` `Tailwind CSS` `JavaScript` `Jira`
-
-### 🗄️ [citizen-database](https://github.com/alinakoxayeva/citizen-database)
-Relational database designed in Oracle SQL with optimized indexing, stored procedures and triggers for automated business rules.
-`Oracle SQL` `PL/SQL`
-
-### 💌 [greeting-card-website](https://github.com/alinakoxayeva/greeting-card-website)
-Animated, interactive greeting card website that can be sent by email or link.
-`HTML` `CSS` `JavaScript`
+I learn fast, I prefer building to talking about building, and I care about how things look as much as how they work.
 
 ---
 
-## Tech & tools
+## 🌱 Currently
+
+- 📈 Building **Habit Flow**, a habit and task tracking dashboard
+- 🤖 Extending my **Oxy AI Agent** toward a voice-enabled assistant
+- 🎓 Studying AI, information security and cloud technologies on exchange
+- 🎯 Looking for internship opportunities in software and AI engineering
+
+---
+
+## 🛠️ Tech & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,postgres,prisma,oracle,python,git,figma,jira&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,postgres,prisma,oracle,python,cpp,cs,git,github,figma,jira,vercel,linux&perline=11" alt="Tech stack" />
 </p>
+
+| Area | What I use |
+|---|---|
+| **AI & agents** | Cursor AI, prompt engineering, OpenAI API, LangChain, LLM integrations |
+| **Frontend** | React, TypeScript, Redux Toolkit, RTK Query, React Router, Tailwind CSS, shadcn/ui, Recharts |
+| **Backend & data** | Node.js, Express, Prisma, PostgreSQL, Oracle SQL (indexing, stored procedures, triggers) |
+| **Process & tools** | Git, GitHub PRs, Agile/Scrum, Jira, Trello, Figma, Vercel, Render, Neon |
 
 ---
 
-## Palette of the month
+## 🎨 Projects
 
-![](https://img.shields.io/badge/-%20%20%20%20%20-D23D2D?style=flat-square)
-![](https://img.shields.io/badge/-%20%20%20%20%20-F8EECB?style=flat-square)
-![](https://img.shields.io/badge/-%20%20%20%20%20-31603D?style=flat-square)
-![](https://img.shields.io/badge/-%20%20%20%20%20-F5C065?style=flat-square)
-![](https://img.shields.io/badge/-%20%20%20%20%20-6E433D?style=flat-square)
+| Project | What it is | Stack |
+|---|---|---|
+| 🍽️ [**Savor**](https://github.com/alinakoxayeva/savor-restaurant) · [demo](https://bitego-website.vercel.app) | Full-stack restaurant ordering platform with order tracking and an admin dashboard | React, TypeScript, Redux Toolkit, Node.js, Express, Prisma, PostgreSQL |
+| 🤖 [**Oxy AI Agent**](https://github.com/alinakoxayeva/oxy-ai-agent) | Slack bot that answers with an LLM and stores data in PostgreSQL | Node.js, LangChain, OpenAI API, PostgreSQL |
+| 📈 [**Habit Flow**](https://github.com/alinakoxayeva/habit-flow) | Habit and task dashboard with Recharts analytics and LocalStorage persistence | React, Vite, Recharts |
+| 🎂 [**Tebrikle**](https://github.com/alinakoxayeva/Tebrikle-Website) · [demo](https://birthday-wishes--alinakokhayeva.replit.app/) | Animated birthday greeting website, built with AI generation and customized by hand | HTML, CSS, JavaScript |
+| 💌 [**Greeting Card Website**](https://github.com/alinakoxayeva/greeting-card-website) | Interactive card you design and send by link or email; the recipient blows out a virtual candle | HTML, CSS, JavaScript |
+| 🖼️ [**Aquart Academy**](https://github.com/alinakoxayeva/AquartAcademy) | Management website for an art academy, delivered with Agile/Scrum | Tailwind CSS, Jira, Trello |
+| 🗄️ [**Citizen Database**](https://github.com/alinakoxayeva/citizen-database) | Relational database with indexing, stored procedures and triggers for data integrity | Oracle SQL |
 
-*Fire red, cream, forest green, saffron and russet, the colors of Savor.*
+---
 
-🎧 On repeat: indie and lo-fi · 🎯 Mindset: focused, a bit of *Whiplash*
+## 🏅 Education & achievements
+
+- 🎓 **B.Sc. Information Technology**, ASOIU (2024 – 2028, expected)
+- 🌍 **Academic exchange**, Satbayev University, Kazakhstan (Fall 2026)
+- 🤖 Introduction to Modern AI, Cisco (2025)
+- 🎮 DigiAge game development bootcamp (2025) · 🦾 Robocode Robotics Coding Bootcamp (2025)
+- 🔐 Cyber Threats and Attack Vectors; Cybersecurity for Business, University of Colorado via Coursera (2025)
+- 🌐 Responsive Web Design, freeCodeCamp (2025)
+- 🦈 GitHub **Pull Shark** achievement
+
+🗣️ **Languages:** Azerbaijani (native) · English (B2) · Russian (B1–B2)
+
+---
+
+## 🎧 Beyond code
+
+Color theory, glassmorphism UI, digital fashion and lo-fi aesthetics. Indie music on repeat, with a bit of *Whiplash* focus when I'm deep in a project.
+
+![](https://img.shields.io/badge/-%20%20%20%20%20-E8C7DE?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-C9B6E4?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-9DB4E8?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-BFE3D9?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-F6E7C1?style=flat-square)
 
 ---
 
