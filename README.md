@@ -1,110 +1,81 @@
 <div align="center">
 
-  <!-- Başlıq və Profil -->
-  <h1>✦ Hi, I'm Alina Kokhayeva ✦</h1>
-  <p><i>IT Student @ ASOIU | Frontend Developer | Agile Project Coordinator</i></p>
+# Hi, I'm Alina Kokhayeva ✦
 
-  <p>
-    <a href="https://linkedin.com/in/alinakokhayeva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/alinakoxayeva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:alinakokhayeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+**IT student · Frontend & full-stack developer · Agile project coordinator**
 
-  ---
+*Web development, database design and Agile teamwork, with a designer's eye.*
 
-  <p><b>"Blending web development, database architecture, and Agile coordination with creative design."</b></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alinakokhayeva)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinakokhayeva@gmail.com)
+[![Live demo: Savor](https://img.shields.io/badge/Live%20demo-Savor-D23D2D?style=for-the-badge)](https://bitego-website.vercel.app/)
 
 </div>
 
-<br/>
+---
 
-### 🎀 About Me
+## About me
 
-- 🎓 **Academic Profile:** B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University** (GPA: 86.3/100)[cite: 4].
-- 💡 **Who I Am:** A multidisciplinary creator bridging the gap between **software engineering logic, aesthetic UI/UX, and digital art**[cite: 4].
-- 🚀 **Tech & Programs:** DigiAge participant (2026)[cite: 4] & Robocode Camp alumna (2025)[cite: 4], diving deep into **Frontend Architecture, Oracle SQL[cite: 4], and AI-assisted workflows** using Cursor AI.
-- 🎨 **Creative Vision:** Passionate about **physical color theory, glassmorphism UI[cite: 4], digital fashion, and lo-fi aesthetics**. I love turning complex logic into soulful, visually captivating user experiences.
-- 🛠️ **Current Endeavors:** Developing **PIGMNT** (a smart color-mixing tool for artists), mastering React/Next.js, and mastering Agile/Scrum project coordination[cite: 4].
-- 🎧 **Driven By:** High-focus discipline (*Whiplash mindset*), indie music vibes, and a relentless push toward world-class innovation.
+- 🎓 B.Sc. in Information Technology at **Azerbaijan State Oil and Industry University** (GPA 86.3/100)
+- 💡 I build things where **clean logic meets good UI/UX**: React front ends, relational databases and Agile workflows
+- 🚀 DigiAge participant (2026) · Robocode Camp alumna (2025)
+- 🛠️ Currently: finishing **Savor**, a full-stack food ordering app, building **PIGMNT** (a color-mixing tool for artists) and learning Next.js
+- 🎨 Outside code: color theory, glassmorphism UI, digital fashion and lo-fi aesthetics
 
 ---
 
-### 🛠️ Technical Skills & Tools
+## Featured projects
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React / Node
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle SQL" />
-      <br>Oracle SQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git / GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
-      <br>Jira / Scrum
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS2" />
-      <br>ROS2 / Unity
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br>Python / AI
-    </td>
-  </tr>
-</table>
+### 🍽️ [Savor](https://github.com/alinakoxayeva/bitego-website) · [Live demo](https://bitego-website.vercel.app/)
+Full-stack restaurant ordering app. Customers browse the menu, order and track their order live; admins manage the menu, orders and users and see sales statistics. I implemented the whole UI from my own Figma-based design system.
+`React 19` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+### 🤖 [oxy-ai-agent](https://github.com/alinakoxayeva/oxy-ai-agent)
+Slack AI agent built with Node.js, LangChain, OpenAI and PostgreSQL.
+`Node.js` `LangChain` `OpenAI` `PostgreSQL`
+
+### 📈 [habit-flow](https://github.com/alinakoxayeva/habit-flow)
+Task and habit tracking dashboard with real-time analytics in Recharts, persistent LocalStorage and interactive status management.
+`React` `Vite` `Recharts`
+
+### 🖼️ [AquartAcademy](https://github.com/alinakoxayeva/AquartAcademy)
+Integrated management system and web app for an art academy, with digital student portfolios and task automation. Planned with Jira and Agile/Scrum (sprints, story points).
+`HTML5` `Tailwind CSS` `JavaScript` `Jira`
+
+### 🗄️ [citizen-database](https://github.com/alinakoxayeva/citizen-database)
+Relational database designed in Oracle SQL with optimized indexing, stored procedures and triggers for automated business rules.
+`Oracle SQL` `PL/SQL`
+
+### 💌 [greeting-card-website](https://github.com/alinakoxayeva/greeting-card-website)
+Animated, interactive greeting card website that can be sent by email or link.
+`HTML` `CSS` `JavaScript`
 
 ---
 
-### 🎨 Featured Projects
+## Tech & tools
 
-- 🖼️ **[Aquart Academy — Integrated Management System](https://github.com/alinakoxayeva)**  
-  Single-page web app with glassmorphism UI, smooth animations, and digital portfolio archive. Managed using Jira/Agile methodologies (sprint planning, story points).  
-  `Tech Stack: HTML5 · Tailwind CSS · JavaScript · Jira · Trello`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,nodejs,express,postgres,prisma,oracle,python,git,figma,jira&perline=9" alt="Tech stack" />
+</p>
 
-- 🗄️ **[Citizen Database — RDBMS](https://github.com/alinakoxayeva)**  
-  Relational Database Management System engineered with optimized indexing strategies, stored procedures, and triggers for automated workflows.  
-  `Tech Stack: Oracle SQL · Stored Procedures · Database Triggers`[cite: 4]
+---
 
-- 📄 **[Responsive HTML CV](https://github.com/alinakoxayeva)**  
-  Clean, semantic, fully responsive personal CV built with modern pure HTML/CSS principles[cite: 4].
+## Palette of the month
 
-<br/>
+![](https://img.shields.io/badge/-%20%20%20%20%20-D23D2D?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-F8EECB?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-31603D?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-F5C065?style=flat-square)
+![](https://img.shields.io/badge/-%20%20%20%20%20-6E433D?style=flat-square)
+
+*Fire red, cream, forest green, saffron and russet, the colors of Savor.*
+
+🎧 On repeat: indie and lo-fi · 🎯 Mindset: focused, a bit of *Whiplash*
+
+---
 
 <div align="center">
-  <sub><i>"Building scalable systems with a touch of art and precision."</i></sub> 
-  <br/>
-  <img src="https://i.pinimg.com/originals/53/bf/ee/53bfeede0d935ef1a86ffebf617eb25a.gif">
+
+*Building useful things with a touch of art and precision.*
+
 </div>
